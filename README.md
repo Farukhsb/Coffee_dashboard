@@ -18,7 +18,7 @@ The Coffee Dashboard project is a personal initiative designed to explore and vi
 ![Screenshot (42)](https://github.com/Farukhsb/Coffee_dashboard/assets/123104960/b3e7ab95-3052-4808-af92-0e15fc0f0ff3)
 
 ## Requirements
-- Microsoft Excel(xlook, index-match)
+- Microsoft Excel
 
 ## Enjoy Exploring!
 Feel free to experiment with the Coffee Dashboard and gain insights into the fascinating world of coffee business data.
